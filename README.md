@@ -1,12 +1,9 @@
-# nbt-clj
+# nbt-clj-reader
 
-A Clojure library for reading Minecraft NBT data structures.
-This is not even alpha level code, just experimentation at the moment.
+This is example code to accompany the blog post "[Reading Minecraft NBT Data in Clojure With Gloss][blog]".
+It should be able to read any compliant NBT data structure.
 
-## Usage
-
-Don't!
-Not yet at least, there will be a blog post about this soon.
+[blog]: http://nathanwilliams.github.com/2013/02/27/reading-minecraft-nbt-data-in-clojure-with-gloss/
 
 ## License
 
